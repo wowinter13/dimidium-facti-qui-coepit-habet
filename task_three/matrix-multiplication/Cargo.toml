@@ -1,0 +1,10 @@
+[package]
+name = "matrix-multiplication"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rayon = "1.8"
+thiserror = "1.0"
+anyhow = "1.0"
+ndarray = "0.15"
